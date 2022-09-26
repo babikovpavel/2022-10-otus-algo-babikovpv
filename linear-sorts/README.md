@@ -1,0 +1,55 @@
+# Сортировки CountingSort, RadixSort, BucketSort
+
+<table>
+<tr>
+<th colspan="3">Скорость сортировки</th>
+</tr>
+<tr>
+    <th>Название</th><th>Кол-во элементов</th><th>Время сортировки (ms)</th>
+</tr>
+<tr>
+    <td>CountingSort</td><td>10^2</td><td>0</td>
+</tr>
+<tr>
+    <td>CountingSort</td><td>10^3</td><td>0</td>
+</tr>
+<tr>
+    <td>CountingSort</td><td>10^4</td><td>1</td>
+</tr>
+<tr>
+    <td>CountingSort</td><td>10^5</td><td>1</td>
+</tr>
+<tr>
+    <td>CountingSort</td><td>10^6</td><td>5</td>
+</tr>
+<tr>
+    <td>RadixSort</td><td>10^2</td><td>0</td>
+</tr>
+<tr>
+    <td>RadixSort</td><td>10^3</td><td>0</td>
+</tr>
+<tr>
+    <td>RadixSort</td><td>10^4</td><td>0</td>
+</tr>
+<tr>
+    <td>RadixSort</td><td>10^5</td><td>6</td>
+</tr>
+<tr>
+    <td>RadixSort</td><td>10^6</td><td>27</td>
+</tr>
+<tr>
+    <td>BucketSort</td><td>10^2</td><td>0</td>
+</tr>
+<tr>
+    <td>BucketSort</td><td>10^3</td><td>0</td>
+</tr>
+<tr>
+    <td>BucketSort</td><td>10^4</td><td>0</td>
+</tr>
+<tr>
+    <td>BucketSort</td><td>10^5</td><td>14</td>
+</tr>
+<tr>
+    <td>BucketSort</td><td>10^6</td><td>41</td>
+</tr>
+</table>
